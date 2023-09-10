@@ -1,0 +1,22 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.block{
+    margin-top: 1%;
+}
+
+.navbar-nav{
+    position: absolute;
+    right: 1%;
+    color: rgba(0,0,0,1); 
+}
+
+.navbar-nav:hover{
+    color: rgba(0,0,0,0.5);
+}
+
+.date{
+    color: grey;
+}
